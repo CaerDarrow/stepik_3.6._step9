@@ -1,2 +1,2 @@
-# stepik_3.6._step9
-Practice repo
+# Running autotests for different languages
+I can’t install Mozilla on my working PC. So test works only for Chrome
